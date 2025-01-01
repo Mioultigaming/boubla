@@ -1,1 +1,1 @@
-840395904
+print('Louqie pute')
